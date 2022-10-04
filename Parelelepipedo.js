@@ -5,3 +5,5 @@ function colocaParelelepipedo(coloca){
         console.log('Miaaaauuuuuuuuuuu');
     }
 }
+coloca = 1;
+colocaParelelepipedo();
