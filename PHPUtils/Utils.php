@@ -25,7 +25,3 @@ class Utils {
     }
 }
 
-$utils = new Utils();
-$number = $utils->romanToInt("XX");
-echo $number . PHP_EOL;
-
